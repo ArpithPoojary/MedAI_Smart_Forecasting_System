@@ -48,6 +48,7 @@ The system helps pharmacies analyze previous sales data, monitor inventory, pred
 ```bash
 backend/
 frontend/
+```
 
 # MedAI Smart Forecasting System
 
